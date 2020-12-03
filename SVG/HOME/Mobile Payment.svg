@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="69.047" viewBox="0 0 43 69.047">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474f72"/>
+      <stop offset="1" stop-color="#878c9f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9dd5df"/>
+      <stop offset="1" stop-color="#c3e1f5"/>
+    </linearGradient>
+  </defs>
+  <g id="Mobile_Payment" data-name="Mobile Payment" transform="translate(-1 -1)">
+    <rect id="Rectangle_1856" data-name="Rectangle 1856" width="43" height="68" rx="4" transform="translate(1 1)" fill="url(#linear-gradient)"/>
+    <path id="Path_791" data-name="Path 791" d="M44,57v2.227a4.491,4.491,0,0,1-4.526,4.455H5.526A4.491,4.491,0,0,1,1,59.227V57a4.491,4.491,0,0,0,4.526,4.455H39.474A4.491,4.491,0,0,0,44,57Z" transform="translate(0 6.365)" fill="#42455e"/>
+    <path id="Path_792" data-name="Path 792" d="M38.41,5V65.138H5V5h7.8a2.227,2.227,0,0,0,2.227,2.227H28.387A2.227,2.227,0,0,0,30.614,5Z" transform="translate(0.455 0.455)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_793" data-name="Path 793" d="M17.227,4.114A1.114,1.114,0,1,1,16.114,3,1.114,1.114,0,0,1,17.227,4.114Z" transform="translate(1.591 0.227)" fill="#42455e"/>
+    <path id="Path_794" data-name="Path 794" d="M25.227,4.114A1.114,1.114,0,1,1,24.114,3,1.114,1.114,0,0,1,25.227,4.114Z" transform="translate(2.501 0.227)" fill="#42455e"/>
+    <path id="Path_798" data-name="Path 798" d="M20.227,22.114A1.114,1.114,0,1,1,19.114,21,1.114,1.114,0,0,1,20.227,22.114Z" transform="translate(1.932 2.273)" fill="#9fe2bf"/>
+    <path id="Path_799" data-name="Path 799" d="M20.227,42.114A1.114,1.114,0,1,1,19.114,41,1.114,1.114,0,0,1,20.227,42.114Z" transform="translate(1.932 4.546)" fill="#9fe2bf"/>
+  </g>
+</svg>
