@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="35" viewBox="0 0 28 35">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474f72"/>
+      <stop offset="1" stop-color="#878c9f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9dd5df"/>
+      <stop offset="1" stop-color="#c3e1f5"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_852" data-name="Group 852" transform="translate(-199 -445)">
+    <g id="Group_793" data-name="Group 793" transform="translate(69 -1)">
+      <path id="Subtraction_5" data-name="Subtraction 5" d="M2336,3342h-14a4,4,0,0,1-4-4v-27a4.005,4.005,0,0,1,4-4h14a4.005,4.005,0,0,1,4,4v8.062a8,8,0,1,0,0,15.875V3338A4,4,0,0,1,2336,3342Z" transform="translate(-2188 -2861)" fill="url(#linear-gradient)"/>
+      <path id="Path_791" data-name="Path 791" d="M23,57v1.343a2.522,2.522,0,0,1-2.316,2.687H3.316A2.522,2.522,0,0,1,1,58.343V57a2.522,2.522,0,0,0,2.316,2.687H20.684A2.522,2.522,0,0,0,23,57Z" transform="translate(129 419.97)" fill="#42455e"/>
+      <path id="Subtraction_4" data-name="Subtraction 4" d="M2335.126,3337.828H2318V3307h4a1.143,1.143,0,0,0,1.141,1.142h6.851a1.144,1.144,0,0,0,1.142-1.142h4v9.874a8,8,0,0,0,0,15.684v5.269Z" transform="translate(-2185.716 -2858.716)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_793" data-name="Path 793" d="M16.142,3.571A.571.571,0,1,1,15.571,3,.571.571,0,0,1,16.142,3.571Z" transform="translate(122.992 444.142)" fill="#42455e"/>
+      <path id="Path_794" data-name="Path 794" d="M24.142,3.571A.571.571,0,1,1,23.571,3,.571.571,0,0,1,24.142,3.571Z" transform="translate(119.56 444.142)" fill="#42455e"/>
+      <circle id="Ellipse_344" data-name="Ellipse 344" cx="7" cy="7" r="7" transform="translate(144 459)" fill="#79b8ff"/>
+    </g>
+    <path id="Icon_awesome-wifi" data-name="Icon awesome-wifi" d="M10.674,4.316a7.816,7.816,0,0,0-10.588,0A.267.267,0,0,0,.08,4.7l.576.571a.273.273,0,0,0,.377.006,6.45,6.45,0,0,1,8.7,0,.273.273,0,0,0,.377-.006L10.68,4.7A.267.267,0,0,0,10.674,4.316ZM5.38,7.63A1.076,1.076,0,1,0,6.455,8.705,1.076,1.076,0,0,0,5.38,7.63ZM8.787,6.224a5.161,5.161,0,0,0-6.814,0,.266.266,0,0,0-.01.389l.579.571a.274.274,0,0,0,.371.013,3.786,3.786,0,0,1,4.934,0,.274.274,0,0,0,.371-.013L8.8,6.613A.266.266,0,0,0,8.787,6.224Z" transform="translate(215 458.75)" fill="#fff"/>
+  </g>
+</svg>
