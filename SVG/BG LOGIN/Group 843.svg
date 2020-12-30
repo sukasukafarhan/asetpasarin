@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="360.143" viewBox="0 0 375 360.143">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.759" y2="0.156" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#007aff"/>
+      <stop offset="1" stop-color="#034fa2"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_843" data-name="Group 843" transform="translate(1360 -17495)">
+    <path id="Union_1" data-name="Union 1" d="M-975,1022h375v360.142H-975Z" transform="translate(-385 16473)" fill="#00aeff"/>
+    <path id="Intersection_3" data-name="Intersection 3" d="M179,111.5A110.964,110.964,0,0,1,197.48,50H375V184.249A111.5,111.5,0,0,1,179,111.5Z" transform="translate(-1360 17445)" opacity="0.35" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
